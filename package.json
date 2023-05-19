@@ -30,7 +30,9 @@
     "eject": "react-scripts eject",
     "validatePlans": "bash bin/validatePlans",
     "lint": "eslint src",
-    "lint:fix": "eslint src --fix"
+    "lint:fix": "eslint src --fix",
+    "predeploy": "rpm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
