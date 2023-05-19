@@ -1,7 +1,7 @@
 {
   "name": "ch-bootstrap",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "https://jrut88.github.io/marathon_calendar",
   "private": true,
   "dependencies": {
     "copy-to-clipboard": "^3.3.1",
